@@ -15,8 +15,8 @@ An app based on [codeshare.io]. I succesfully implemented most of basic function
 
 ### You can check all of project on my website: [Cick here!]
 
-[website]: https://jgorka.netlify.app/home
+[website]: https://jgorka.netlify.app/
 [linkedin]: https://www.linkedin.com/in/jakub-gorka/
 [Check it here]: https://codeshare-client.netlify.app/
-[Cick here!]: https://jgorka.netlify.app/home
+[Cick here!]: https://jgorka.netlify.app/
 [codeshare.io]: https://codeshare.io/
