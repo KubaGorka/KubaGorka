@@ -10,8 +10,6 @@
 [<img align='left' alt="my linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg"/>][linkedin]
 <br />
 
-You can check all projects on my website: [Cick here!]
-
 [website]: https://jgorka.netlify.app/
 [linkedin]: https://www.linkedin.com/in/jakub-gorka/
 [Check it here]: https://codeshare-client.netlify.app/
