@@ -2,7 +2,7 @@
 
 ### I'm an aspiring begginer Front-End Developer!
 - 🎓 I’m currently learning TypeScript
-- 💬 I'm looking for my first commercial experience
+- 🐝 I'm doing an internship in IBM 
 - 🌱 Coffee is my passion
 
 ### Connect with me:
