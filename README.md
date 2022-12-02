@@ -1,9 +1,5 @@
-## Hi there, I'm Kuba 👋
+## Hi there, I'm Kuba and I'm a Front-End Dev! 👋
 
-### I'm an aspiring begginer Front-End Developer!
-- 🎓 I’m currently learning TypeScript
-- 🐝 I'm doing an internship in IBM 
-- 🌱 Coffee is my passion
 
 ### Connect with me:
 [<img align='left' alt="my website" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
@@ -12,5 +8,3 @@
 
 [website]: https://jgorka.netlify.app/
 [linkedin]: https://www.linkedin.com/in/jakub-gorka/
-[Check it here]: https://codeshare-client.netlify.app/
-[Cick here!]: https://jgorka.netlify.app/
